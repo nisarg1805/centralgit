@@ -1,2 +1,1 @@
-first line
-second line
+first line for commit file
